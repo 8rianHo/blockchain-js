@@ -21,3 +21,6 @@ createTheBlockchainSimulation(*change the number*);
 You will notice I have nodemon as a devDependency.
 
 4. npm start
+
+## Result
+![alt text](https://github.com/8rianHo/blockchain-js/blob/master/blockchain.png)
